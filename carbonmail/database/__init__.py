@@ -1,0 +1,1 @@
+#ele é sempre executado ao importa-lo!
